@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Timeoortsdu09.aternos.me:33037",
+    "ip": "Timeoortsdu09.aternos.me",
     "port": 33037,
     "version": "1.19.4",
     "try-creative": false
